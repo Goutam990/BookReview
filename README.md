@@ -17,7 +17,7 @@ BookReview is a web application that allows users to explore, review, and rate b
 
 🌍 Live Demo
 
-Check out the live demo here: BookReview Live
+Check out the live demo here: https://aquamarine-narwhal-76f00b.netlify.app/
 
 ## 🎮 Installation & Setup
 ### Prerequisites

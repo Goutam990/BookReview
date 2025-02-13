@@ -15,6 +15,10 @@ BookReview is a web application that allows users to explore, review, and rate b
 - **Backend:** Supabase (PostgreSQL, Authentication)
 - **Database:** Supabase (browser-compatible for WebContainer)
 
+🌍 Live Demo
+
+Check out the live demo here: BookReview Live
+
 ## 🎮 Installation & Setup
 ### Prerequisites
 Ensure you have the following installed:

@@ -15,9 +15,12 @@ BookReview is a web application that allows users to explore, review, and rate b
 - **Backend:** Supabase (PostgreSQL, Authentication)
 - **Database:** Supabase (browser-compatible for WebContainer)
 
-🌍 Live Demo
+## 🌍 Live Demo
 
-Check out the live demo here: https://aquamarine-narwhal-76f00b.netlify.app/
+🚀 **Experience the app live:**  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://aquamarine-narwhal-76f00b.netlify.app/)  
+🔗 **[Click here to visit BookReview](https://aquamarine-narwhal-76f00b.netlify.app/)** 🎉
+
 
 ## 🎮 Installation & Setup
 ### Prerequisites
